@@ -6,7 +6,7 @@
 
 1. Nákup komponentů a diskuze s učiteli
    - [x] Nákup komponentů
-   - [ ] diskuze
+   - [X] diskuze
 
 2. Navrhnout a sestrojit prototip základny
 
