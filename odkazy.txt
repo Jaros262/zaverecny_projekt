@@ -1,0 +1,3 @@
+Použitá reference:
+https://mostlyprograming.blogspot.com/2020/05/joystick-hw-504-interfacing-with-arduino.html
+http://elektronika.jecool.net/ovladani-dc-motoru/
