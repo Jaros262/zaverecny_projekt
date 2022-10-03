@@ -1,22 +1,37 @@
-# Zaverecny projekt
+# Záverečný projekt
 
 ## Projekt se bude věnovat hardwaru, konkrétně pak autu na dálkové ovládání.
+
+## Rozdělení projektu na branche
+
+1. Základní funkce
+   - [x] Kód na pohyb motorů pomocí drátem zapojeným joystickem
+   - [ ] Schéma zapojení komponentů
+   - [x] Video obsahující ukázku funkčnosti
+   - [x] Reference
+   
+2. Prototyp 3D modelu "auta"
+   - [ ] Samotné části prototypu
+   - [ ] Screenshoty prototypu
+   - [ ] Využité technologie
 
 ## Cíle
 
 1. Nákup komponentů a diskuze s učiteli
    - [x] Nákup komponentů
-   - [X] diskuze
+   - [X] Diskuze
 
 2. Navrhnout a sestrojit prototip základny
+   - [x] Prototyp V1
 
-2. Zprovoznění zařízení BLUETOOTH
+3. Zprovoznění zařízení BLUETOOTH
    - [x] Vlastnit komponent
-   - [ ] zprovoznit komunikaci s mobilem
+   - [ ] Zprovoznit komunikaci s mobilem
 
-3. Navrhnout kód na pohyb koly
-   - [ ] kód
-   - [ ] kola fungují
+4. Navrhnout kód na pohyb koly
+   - [x] Základní Kód
+   - [x] Funkce kol
+   - [x] Využití joysticku na ovládání kol
 
 
 ## rozvržení času
