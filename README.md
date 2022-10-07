@@ -6,7 +6,7 @@
 
 1. Základní funkce
    - [x] Kód na pohyb motorů pomocí drátem zapojeným joystickem
-   - [ ] Schéma zapojení komponentů
+   - [x] Schéma zapojení komponentů
    - [x] Video obsahující ukázku funkčnosti
    - [x] Reference
    
