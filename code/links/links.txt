@@ -1,2 +1,6 @@
 switch:
 https://arduinogetstarted.com/tutorials/arduino-switch
+stm32-connection:
+https://www.youtube.com/watch?v=K-jYSysmw9w
+OLED Display:
+https://www.youtube.com/watch?v=tXaeRzaBwBY
