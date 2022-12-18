@@ -4,3 +4,10 @@ stm32-connection:
 https://www.youtube.com/watch?v=K-jYSysmw9w
 OLED Display:
 https://www.youtube.com/watch?v=tXaeRzaBwBY
+HC-05:
+https://www.youtube.com/embed/I2qFXSe0W3w?feature=oembed&autoplay=1
+https://create.arduino.cc/projecthub/embeddedlab786/how-to-configure-and-pair-two-hc-05-bluetooth-modules-fa8ce2?ref=user&ref_id=598105&offset=1
+https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
+https://www.instructables.com/Arduino-Two-Way-Communication-Via-Bluetooth-HC-05/
+Servo with joystick:
+https://create.arduino.cc/projecthub/RiddledExistence/controlling-a-servo-motor-with-thumb-joystick-46a4d3
