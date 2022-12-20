@@ -46,10 +46,24 @@
    - [x] Dolní část modelu
    - [x] Horní část modelu
    - [x] Věž
-   - [ ] Dělo
+   - [X] Dělo
    - [ ] Prostory pro moduly v modelu
    - [ ] Detaily modelu
-
+6. Navrhnout finální kód pro controller
+   - [X] Funkčnost Joysticků
+   - [X] Funkčnost tlačítka/tlačítek (dle potřeby)
+   - [X] Funkce dvou rozdílných módů ovládání
+   - [X] Funkce Bluetooth
+   - [ ] úspěšný test
+   - [ ] funkční
+7. Navrhnout finální kód pro model
+   - [ ] Funkčnost ovládání motorů skrze bluetooth
+   - [ ] Funkčnost ovládání serva skrze bluetooth
+   - [ ] Fungující odpojování baterie
+   - [ ] Funkce vypnutí celého modelu
+   - [ ] úspěšný test
+   - [ ] funkční
+   
 ## rozvržení času
 - 30.listopadu - 10.ledna
 - 41 dnů - 6 týdnů
