@@ -1,3 +1,5 @@
+DC motors:
+https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
 switch:
 https://arduinogetstarted.com/tutorials/arduino-switch
 stm32-connection:
@@ -11,3 +13,6 @@ https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-
 https://www.instructables.com/Arduino-Two-Way-Communication-Via-Bluetooth-HC-05/
 Servo with joystick:
 https://create.arduino.cc/projecthub/RiddledExistence/controlling-a-servo-motor-with-thumb-joystick-46a4d3
+Button ideas:
+https://github.com/poelstra/arduino-multi-button
+https://stackoverflow.com/questions/28653134/arduino-button-ispressed-is-not-working
