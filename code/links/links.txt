@@ -12,7 +12,11 @@ https://create.arduino.cc/projecthub/embeddedlab786/how-to-configure-and-pair-tw
 https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/
 https://www.instructables.com/Arduino-Two-Way-Communication-Via-Bluetooth-HC-05/
 Servo with joystick:
-https://create.arduino.cc/projecthub/RiddledExistence/controlling-a-servo-motor-with-thumb-joystick-46a4d3
+https://maker.pro/arduino/tutorial/how-to-control-servo-motors-with-an-arduino-and-joystick
 Button ideas:
 https://github.com/poelstra/arduino-multi-button
 https://stackoverflow.com/questions/28653134/arduino-button-ispressed-is-not-working
+ideas:
+https://maker.pro/arduino/projects/how-to-control-an-arduino-robot-with-a-ps4-bluetooth-controller
+https://projecthub.arduino.cc/samanfern/c71cd04b-79fd-4d0a-8a4b-b1dacc2f7725
+https://www.instructables.com/DIY-Joystick-Controlled-Remote-Car-Using-Arduino/
