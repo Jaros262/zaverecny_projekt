@@ -1,10 +1,10 @@
 #include <SoftwareSerial.h>
 
 
-SoftwareSerial Bluetooth(10, 11);
+SoftwareSerial Bluetooth(3, 4);
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(38400);
   Serial.println("HC-05 Commands");
   Bluetooth.begin(38400);
 }
