@@ -1,6 +1,12 @@
 # Záverečný projekt
+Projekt se bude věnovat hardwaru, konkrétně pak tanku na dálkové ovládání.
+# Úvod
+Rozhodl jsem vytvořit vozidlo na dálkové ovládání, protože mě práce s Arduino moduly vždy zajímala a vždy jsem chtěl vytvářet modely historických vozidel, primárně pak tanků. 
 
-## Projekt se bude věnovat hardwaru, konkrétně pak tanku na dálkové ovládání.
+Hlavním cílem mého projektu bylo vytvoření funkčního tanku, který bude modelově odpovídat předloze historického tanku Tiger I. Tank je vytvořený za pomocí programu Inventor přeložený do formátu gcode a vytištěný na 3D tiskárně. Program tanku je v jazyce Arduino, který je kombinací jazyků C a C++.  
+
+Uživatel se připojí k tanku pomocí ovladače a může si vybrat mezi dvěma módy ovládání, poté již bezstarostně ovládá pohyb tanku a otáčení věže.
+
 > Pro prohlížení souborů doporučuju používat [AUTODESK Viewer](https://360.autodesk.com/viewer "AUTODESK Viewer")
 
 ## Rozdělení projektu na branche
