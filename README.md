@@ -29,9 +29,9 @@
    - [x] Vlastnit komponent
    - [x] Zprovoznit komunikaci s mobilem
    - [x] Přehodnocení a konečné rozhodnutí zhotovit vlastní kontroler místo mobilu
-   - [ ] Návrh kontroleru
+   - [x] Návrh kontroleru
    - [ ] Komunikace mezi dvěmi arduino
-   - [ ] Konstrukce kontroleru
+   - [x] Konstrukce kontroleru
    - [ ] Celkové ovládání modelu skrz kontroler
    
 4. Navrhnout kód na pohyb koly
@@ -47,7 +47,7 @@
    - [x] Horní část modelu
    - [x] Věž
    - [X] Dělo
-   - [ ] Prostory pro moduly v modelu
+   - [x] Prostory pro moduly v modelu
    - [ ] Detaily modelu
 6. Navrhnout finální kód pro controller
    - [X] Funkčnost Joysticků
@@ -59,12 +59,10 @@
 7. Navrhnout finální kód pro model
    - [ ] Funkčnost ovládání motorů skrze bluetooth
    - [ ] Funkčnost ovládání serva skrze bluetooth
-   - [ ] Fungující odpojování baterie
-   - [ ] Funkce vypnutí celého modelu
+   - [x] Fungující odpojování baterie
+   - [x] Funkce vypnutí celého modelu
    - [ ] úspěšný test
    - [ ] funkční
    
 ## rozvržení času
-- 30.listopadu - 10.ledna
-- 41 dnů - 6 týdnů
-- 29 dnů - 87 hodin = 3 hodiny denně mimo víkend
+- Osobně bych řekl, že jsem na projektu strávil něco mezi 130 - 200 hodin.
